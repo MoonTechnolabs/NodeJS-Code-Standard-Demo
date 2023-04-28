@@ -31,3 +31,6 @@ Note:
 3. In untils, All functions must be independent. It should not relay on any other function.
 4. Define routes as per modules.
 5. Each API must be validate with Joi to secure payload.
+
+
+<img src="https://github.com/MoonTechnolabs/NodeJS-Code-Standard-Demo/blob/main/public/images/Screenshot_1.png" alt="node.js" width="200"/>
